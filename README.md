@@ -1,2 +1,15 @@
-# 2025_03_19_QuestScanAndExportSetup
-A must have setup package. Export includes: triangulation mesh, Quest mesh, Quest room setup, Guardian ID, and camera screenshots. We need all of these in a tool for exporting to Unity3D.
+# Quest Scan An dExport Setup  
+
+Every single time, I ask myself why I still haven't built a tool to export the Quest 3 mesh. 
+But there’s more to consider:  
+- Triangulation Points  
+- Depth API Scan  
+- Camera Images  
+- Room Save Data  
+- Guardian Fingerprint  
+- …and more  
+
+This page will serve as a hub for all the tools I need to develop.  
+Hope this helps! If you use this tool, feel free to send me a beer—because coding and maintaining all of this is going to be a serious effort. 🍻
+[Pizza License](https://github.com/EloiStree/License)  
+   
